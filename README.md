@@ -4,6 +4,10 @@ MindMate AI is a locally running AI chatbot developed using Python, Streamlit, O
 
 It allows users to interact with an AI assistant, maintain conversation history, and manage multiple chats.
 
+## Screenshot
+<img width="945" height="424" alt="image" src="https://github.com/user-attachments/assets/c1aae9bb-a40d-4f42-a69c-9d077b9f7d26" />
+
+
 ## Features
 
 - AI-powered chatbot
